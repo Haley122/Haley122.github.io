@@ -1,6 +1,5 @@
 ## Biography
-
----
+I am now a Research Assistant Professor at Department of Electronic and Information Engineering (EIE), The Hong Kong Polytechnic University (PolyU). Before that, I was postdoc in EIE and Department of Land Surveying and Geo-informatics (LSGI), PolyU. I obtained my Ph.D. degree in the Department of Electronic Engineering, The Chinese University of Hong Kong (CUHK) in 2018. I received B.Eng. degree in Information Engineering from Nanjing University of Aeronautics and Astronautics (NUAA) in 2013. 
 
 ### Research
 
