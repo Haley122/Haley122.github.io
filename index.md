@@ -19,11 +19,9 @@ Dr. Huan WU received the B.Eng degree from the Nanjing University of Aeronautics
     - [Journal of Lightwave Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=50)
     - [Optics and Lasers in Engineering](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering)
 
-
 ---
-
 ## **Projects**
-### Distributed optical fiber sensing technologies
+### <ins>Distributed optical fiber sensing technologies</ins>
 Distributed optical fiber sensors allow many points to be measured simultaneously, and it is compatible to ubiquitously deployed underground fiber system for telecommunication purpose.
 #### 1. Distributed acoustic sensing (DAS)
 The working principle of DAS is based on the phase-sensitive OTDR that utilizes the interference effect of Rayleigh backscattering of different scatters within the pulse width. A DAS prototype that can realize real-time vibration sensing along 30 km optical fiber was built in our lab.
@@ -43,10 +41,8 @@ The working principle of DTSS is based on the stimulated Brillouin scattering th
 - we accelerated the information extraction from Brillouin frequency shift from both algorithm and hardware perspectives, check our <a href="https://haley122.github.io/pdf/dtss_pdf1.pdf" target="_blank">Paper 1</a> and <a href="https://haley122.github.io/pdf/dtss_pdf2.pdf" target="_blank">Paper 2</a>
 - we proposed SNR enhancement based on image denoising algorithm,check our <a href="https://haley122.github.io/pdf/dtss_pdf3.pdf" target="_blank">Paper</a>
 
-
-  
-### Application of Distributed optical fiber sensing technologies
-#### DAS for water pipe leak detection
+### <ins>Application of Distributed optical fiber sensing technologies</ins>
+#### 1. DAS for water pipe leak detection
 Key facts: 
 - Over **2.3 billion** people currently live in water-stressed countries
 - **20-30%** of the water is lost in most countries due to leakage
@@ -56,4 +52,5 @@ Key facts:
 Our work: Distributed vibration measurements along a 40-meter-long recirculating water pipe by leveraging the sensing capability of a standard outdoor fiber-optic cable are presented to prove the concept. A leak identification algorithm based on 3D convolutional neural networks (3D-CNNs) that jointly utilize temporal, spectral, and spatial information is proposed. It can detect leak flow rate as low as 0.027 L/s with a location accuracy of within 3 meters and quantification accuracy of over 85%.
 
 <img src="images/water_pipe.png" width="700"/>
+
 
