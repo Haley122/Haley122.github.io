@@ -11,26 +11,38 @@ Dr. Huan WU received the B.Eng degree from the Nanjing University of Aeronautics
 5.	Huan Wu, Hongda Wang, Chester Shu, Chiu-Sing Choy, and Chao Lu. "BOTDA fiber sensor system based on FPGA accelerated support vector regression." IEEE Transactions on Instrumentation and Measurement 69(6), 3826-3837, 2019.
 
 ---
+### Services
+- Consultant for Water Supplies Department, The Government of Hong Kong SAR. Project: "Consultancy Study on Distributed Fiber Optic System for Leak Detection for Water Mains in Anderson Road Quarry Development Site" 
+- Reviewer
+    - [Optics Express](https://opg.optica.org/oe/home.cfm)
+    - [Photonics Journal](https://www.photonicssociety.org/publications/photonics-journal)
+    - [Journal of Lightwave Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=50)
+    - [Optics and Lasers in Engineering](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering)
+
+
+---
 
 ### Projects
 #### Distributed optical fiber sensing technologies
-Distributed optical fiber sensors allow many points to be measured simultaneously, and it is compatible to ubiquitously deployed underground fiber system for telecommunication purpoose.
+Distributed optical fiber sensors allow many points to be measured simultaneously, and it is compatible to ubiquitously deployed underground fiber system for telecommunication purpose.
 ##### 1. Distributed acoustic sensing (DAS)
 The working principle of DAS is based on the phase-sensitive OTDR that utilizes the interference effect of Rayleigh backscattering of different scatters within the pulse width. A DAS prototype that can realize real-time vibration sensing along 30 km optical fiber was built in our lab.
 
 <img src="images/prototype.jpg" width="400"/>
 <br><br>
 
-- we published a 10 class dataset named DAS1K, check our [project page](https://github.com/Haley122/Distributed-Acoustic-Sensor-DAS1K-Pattern-Recognition)
-- we proposed an interference fading method based on space division multiplexing, check our [paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-29-10-15452&id=450754)
-- we proposed a multipath DAS system based on frequency division multiplexing technology, check our [paper](https://www.sciencedirect.com/science/article/pii/S0143816621000634)
+- we published a 10 class dataset named DAS1K, check our [project page](https://github.com/Haley122/Distributed-Acoustic-Sensor-DAS1K-Pattern-Recognition) and <a href="https://haley122.github.io/pdf/das_pdf1.pdf" target="_blank">Paper</a>
+- we proposed an interference fading method based on space division multiplexing, check our <a href="https://haley122.github.io/pdf/das_pdf2.pdf" target="_blank">Paper</a>
+- we proposed a multipath DAS system based on frequency division multiplexing technology, check our <a href="https://haley122.github.io/pdf/das_pdf3.pdf" target="_blank">Paper</a>
 
 ##### 2. Distributed temperature and strain sensing (DTSS)
 The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.
 <img src="images/BOTDA2.png" width="700"/> 
 
-- we accelerated the information extraction from Brillouin frequency shift from both algorithm and hardware perspectives, check our [paper1](https://ieeexplore.ieee.org/abstract/document/8010274) and [paper2](https://ieeexplore.ieee.org/abstract/document/8863981)
-- we proposed SNR enhancement based on image denoising algorithm,check our [paper](https://opg.optica.org/oe/fulltext.cfm?uri=oe-26-5-5126&id=381815)
+- we accelerated the information extraction from Brillouin frequency shift from both algorithm and hardware perspectives, check our <a href="https://haley122.github.io/pdf/dtss_pdf1.pdf" target="_blank">Paper 1</a> and <a href="https://haley122.github.io/pdf/dtss_pdf2.pdf" target="_blank">Paper 2</a>
+- we proposed SNR enhancement based on image denoising algorithm,check our <a href="https://haley122.github.io/pdf/dtss_pdf3.pdf" target="_blank">Paper</a>
+
+
   
 #### Application of Distributed optical fiber sensing technologies
 ##### DAS for water pipe leak detection
