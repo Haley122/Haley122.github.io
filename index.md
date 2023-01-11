@@ -12,14 +12,17 @@ Dr. Huan WU received the B.Eng degree from the Nanjing University of Aeronautics
 
 ---
 ## **Services**
-- Consultant for Water Supplies Department, The Government of Hong Kong SAR. Project: "Consultancy Study on Distributed Fiber Optic System for Leak Detection for Water Mains in Anderson Road Quarry Development Site" 
+- Consultant for Water Supplies Department, The Government of Hong Kong SAR. 
+    - Project: "Consultancy Study on Distributed Fiber Optic System for Leak Detection for Water Mains in Anderson Road Quarry Development Site" , Ongoing
 - Reviewer
     - [Optics Express](https://opg.optica.org/oe/home.cfm)
     - [Photonics Journal](https://www.photonicssociety.org/publications/photonics-journal)
     - [Journal of Lightwave Technology](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=50)
     - [Optics and Lasers in Engineering](https://www.sciencedirect.com/journal/optics-and-lasers-in-engineering)
 
+
 ---
+
 ## **Projects**
 ### <ins>Distributed optical fiber sensing technologies</ins>
 Distributed optical fiber sensors allow many points to be measured simultaneously, and it is compatible to ubiquitously deployed underground fiber system for telecommunication purpose.
@@ -36,11 +39,14 @@ The working principle of DAS is based on the phase-sensitive OTDR that utilizes 
 
 #### 2. Distributed temperature and strain sensing (DTSS)
 The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.
-<img src="images/BOTDA2.png" width="700"/> 
+
+<img src="images/BOTDA2.jpg" width="400"/> 
 
 - we accelerated the information extraction from Brillouin frequency shift from both algorithm and hardware perspectives, check our <a href="https://haley122.github.io/pdf/dtss_pdf1.pdf" target="_blank">Paper 1</a> and <a href="https://haley122.github.io/pdf/dtss_pdf2.pdf" target="_blank">Paper 2</a>
 - we proposed SNR enhancement based on image denoising algorithm,check our <a href="https://haley122.github.io/pdf/dtss_pdf3.pdf" target="_blank">Paper</a>
 
+
+  
 ### <ins>Application of Distributed optical fiber sensing technologies</ins>
 #### 1. DAS for water pipe leak detection
 Key facts: 
